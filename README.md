@@ -11,4 +11,13 @@
 a little bit of everything.
 - 😄 Pronouns: He / His.
 
+##
+
+<div style="display: inline_block">
+  <img>
+  <img>
+  <img>
+  <img>
+</div>
+
 
