@@ -2,7 +2,7 @@
 
 <div>
   <a href = "https://github.com/matheuscoelhopi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscoelhopi&show_icons=true&theme=synthwave&hide=stars,commits,prs,issues,contribs&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscoelhopi&show_icons=true&theme=synthwave&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
   <img height="180em">
 <div>
 
